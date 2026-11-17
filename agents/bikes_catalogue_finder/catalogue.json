@@ -1,0 +1,164 @@
+{
+  "providers": [
+    {
+      "name": "Shimano",
+      "url": "https://bike.shimano.com/",
+      "description": "Leading manufacturer of cycling components including drivetrains, brakes, wheels and pedals",
+      "keywords": ["drivetrain", "groupset", "brakes", "wheels", "pedals", "derailleurs", "cassettes", "chains", "Japanese", "high-end", "mid-range", "entry-level"],
+      "specialties": ["road", "mountain", "gravel", "e-bike"],
+      "popular_series": ["Dura-Ace", "Ultegra", "105", "Tiagra", "XTR", "XT", "SLX", "Deore"]
+    },
+    {
+      "name": "SRAM",
+      "url": "https://www.sram.com/",
+      "description": "Premium manufacturer of bicycle components known for innovative drivetrains and wireless shifting",
+      "keywords": ["drivetrain", "groupset", "brakes", "wheels", "American", "wireless", "AXS", "1x", "hydraulic"],
+      "specialties": ["road", "mountain", "gravel", "cyclocross"],
+      "popular_series": ["RED", "Force", "Rival", "Apex", "XX1", "X01", "GX", "NX"]
+    },
+    {
+      "name": "Campagnolo",
+      "url": "https://www.campagnolo.com/",
+      "description": "Historic Italian manufacturer specializing in high-end road bike components",
+      "keywords": ["drivetrain", "groupset", "wheels", "Italian", "premium", "high-end", "heritage", "classic"],
+      "specialties": ["road", "gravel", "time trial"],
+      "popular_series": ["Super Record", "Record", "Chorus", "Centaur", "Ekar"]
+    },
+    {
+      "name": "Zipp",
+      "url": "https://www.sram.com/zipp/",
+      "description": "Aerodynamic wheel specialist known for carbon fiber wheels and components",
+      "keywords": ["wheels", "carbon", "aerodynamic", "handlebars", "stems", "seatposts", "American"],
+      "specialties": ["road", "triathlon", "time trial", "gravel"],
+      "popular_series": ["Firecrest", "NSW", "303", "404", "808"]
+    },
+    {
+      "name": "Continental",
+      "url": "https://www.continental-tires.com/bicycle/",
+      "description": "Premium tire manufacturer with a wide range of road, mountain and urban tires",
+      "keywords": ["tires", "tubes", "German", "puncture-resistant", "grip", "rolling resistance"],
+      "specialties": ["road", "mountain", "gravel", "urban", "touring"],
+      "popular_series": ["GP5000", "Gatorskin", "Terra", "Mountain King", "Der Baron"]
+    },
+    {
+      "name": "Schwalbe",
+      "url": "https://www.schwalbe.com/",
+      "description": "German tire specialist with focus on durability and performance across all cycling disciplines",
+      "keywords": ["tires", "tubes", "German", "puncture-resistant", "touring", "commuting", "e-bike"],
+      "specialties": ["road", "mountain", "gravel", "urban", "touring", "e-bike"],
+      "popular_series": ["Pro One", "Marathon", "Big Betty", "Magic Mary", "G-One"]
+    },
+    {
+      "name": "FSA (Full Speed Ahead)",
+      "url": "https://www.fullspeedahead.com/",
+      "description": "Component manufacturer specializing in cockpit parts, cranksets and wheelsets",
+      "keywords": ["handlebars", "stems", "seatposts", "cranksets", "headsets", "wheels", "affordable"],
+      "specialties": ["road", "mountain", "gravel", "urban"],
+      "popular_series": ["K-Force", "SL-K", "Afterburner", "Gossamer"]
+    },
+    {
+      "name": "Ritchey",
+      "url": "https://us.ritcheylogic.com/",
+      "description": "Classic component brand known for high-quality cockpit components and frames",
+      "keywords": ["handlebars", "stems", "seatposts", "headsets", "frames", "classic", "steel"],
+      "specialties": ["road", "mountain", "gravel", "cyclocross"],
+      "popular_series": ["WCS", "Comp", "Classic", "Logic"]
+    },
+    {
+      "name": "Brooks England",
+      "url": "https://www.brooksengland.com/",
+      "description": "Historic British manufacturer famous for leather saddles and cycling bags",
+      "keywords": ["saddles", "leather", "bags", "classic", "touring", "heritage", "British"],
+      "specialties": ["touring", "commuting", "urban", "bikepacking"],
+      "popular_series": ["B17", "C17", "Swift", "Cambium", "Scape"]
+    },
+    {
+      "name": "Fizik",
+      "url": "https://www.fizik.com/",
+      "description": "Italian manufacturer specializing in performance saddles, shoes and bar tape",
+      "keywords": ["saddles", "shoes", "bar tape", "Italian", "performance", "racing"],
+      "specialties": ["road", "mountain", "gravel", "triathlon"],
+      "popular_series": ["Arione", "Aliante", "Antares", "Tempo", "Terra"]
+    },
+    {
+      "name": "Specialized",
+      "url": "https://www.specialized.com/",
+      "description": "Major bicycle and component manufacturer with extensive range of bikes and accessories",
+      "keywords": ["bikes", "saddles", "tires", "shoes", "helmets", "American", "full-range"],
+      "specialties": ["road", "mountain", "gravel", "urban", "e-bike"],
+      "popular_series": ["S-Works", "Power", "Phenom", "Turbo", "Stumpjumper"]
+    },
+    {
+      "name": "Park Tool",
+      "url": "https://www.parktool.com/",
+      "description": "Industry standard for bicycle maintenance tools and repair equipment",
+      "keywords": ["tools", "maintenance", "repair", "workstands", "American", "professional"],
+      "specialties": ["tools", "maintenance", "repair"],
+      "popular_series": ["Professional", "Home Mechanic", "PCS", "BBT"]
+    },
+    {
+      "name": "Topeak",
+      "url": "https://www.topeak.com/",
+      "description": "Comprehensive range of bike accessories, tools and pumps",
+      "keywords": ["pumps", "tools", "bags", "racks", "fenders", "accessories", "affordable"],
+      "specialties": ["accessories", "tools", "commuting", "touring"],
+      "popular_series": ["JoeBlow", "Alien", "PrepStand", "Explorer"]
+    },
+    {
+      "name": "Garmin",
+      "url": "https://www.garmin.com/cycling/",
+      "description": "Leading GPS and cycling computer manufacturer with advanced training features",
+      "keywords": ["computers", "GPS", "navigation", "sensors", "power meters", "training"],
+      "specialties": ["electronics", "navigation", "training"],
+      "popular_series": ["Edge", "Vector", "Varia", "Rally"]
+    },
+    {
+      "name": "Wahoo",
+      "url": "https://www.wahoofitness.com/",
+      "description": "Innovative cycling technology company focused on training devices and smart trainers",
+      "keywords": ["computers", "GPS", "trainers", "sensors", "indoor training", "smart"],
+      "specialties": ["electronics", "indoor training", "navigation"],
+      "popular_series": ["ELEMNT", "KICKR", "TICKR", "ROAM", "BOLT"]
+    },
+    {
+      "name": "Fox Racing Shox",
+      "url": "https://www.ridefox.com/",
+      "description": "Premium suspension manufacturer for mountain bikes and off-road vehicles",
+      "keywords": ["suspension", "forks", "shocks", "dropper posts", "mountain bike", "high-end"],
+      "specialties": ["mountain", "enduro", "downhill", "trail"],
+      "popular_series": ["Factory", "Performance", "36", "40", "Float", "DHX"]
+    },
+    {
+      "name": "RockShox",
+      "url": "https://www.sram.com/rockshox/",
+      "description": "Leading suspension brand offering forks, shocks and dropper posts for all mountain disciplines",
+      "keywords": ["suspension", "forks", "shocks", "dropper posts", "mountain bike", "affordable"],
+      "specialties": ["mountain", "enduro", "downhill", "trail", "cross-country"],
+      "popular_series": ["SID", "Pike", "Lyrik", "Boxxer", "Reverb", "Deluxe"]
+    },
+    {
+      "name": "DT Swiss",
+      "url": "https://www.dtswiss.com/",
+      "description": "Swiss manufacturer specializing in high-quality wheels, hubs and spokes",
+      "keywords": ["wheels", "hubs", "spokes", "rims", "Swiss", "precision", "reliability"],
+      "specialties": ["road", "mountain", "gravel", "e-bike"],
+      "popular_series": ["PRC", "GRC", "XRC", "ERC", "240", "350"]
+    },
+    {
+      "name": "Mavic",
+      "url": "https://www.mavic.com/",
+      "description": "Historic French wheel manufacturer with comprehensive range of wheels and accessories",
+      "keywords": ["wheels", "rims", "clothing", "shoes", "French", "heritage", "yellow"],
+      "specialties": ["road", "mountain", "gravel", "urban"],
+      "popular_series": ["Cosmic", "Ksyrium", "Crossmax", "Deemax", "Allroad"]
+    },
+    {
+      "name": "Enve",
+      "url": "https://www.enve.com/",
+      "description": "Premium carbon fiber component manufacturer specializing in wheels and cockpit parts",
+      "keywords": ["wheels", "handlebars", "stems", "seatposts", "carbon", "American", "high-end"],
+      "specialties": ["road", "mountain", "gravel", "triathlon"],
+      "popular_series": ["SES", "M Series", "G Series", "Foundation"]
+    }
+  ]
+}
